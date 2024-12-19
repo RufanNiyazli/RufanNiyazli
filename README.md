@@ -28,13 +28,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufanniyazli&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufanniyazli&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufanniyazli&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000&title_color=ff7f00&text_color=00ff00&icon_color=00ff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufanniyazli&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=ff7f00&text_color=00ff00&icon_color=00ff00)
 
 ### ✍️ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rufanniyazli&icon=6&color=13)](https://visitcount.itsvg.in)
-
-
