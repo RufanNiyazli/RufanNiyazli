@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on creating efficient and responsive web applications using React, TypeScript, and Redux. My goal is to build projects that solve real-world problems and improve user experience.<br><br>👯 I’m looking to collaborate on innovative frontend projects, particularly those involving modern UI/UX design or web application development.<br><br>🤝 I’m looking for help with improving my backend skills, especially with Java and database management systems like MongoDB or PostgreSQL.<br><br>🌱 I’m currently learning advanced state management in React, optimization techniques for frontend performance, and exploring new CSS frameworks.<br><br>💬 Ask me about building Todo apps, organizing project structures, or any frontend-related queries! I’d love to share what I know.<br><br>⚡ Fun fact: I can spend hours tweaking a UI layout just to make it pixel-perfect—and I enjoy every second of it!<br><br>
+🔭 I’m currently diving into the world of web development, building efficient and visually appealing web applications using React, TypeScript, and Redux. While frontend is my strong suit, I’m also exploring backend technologies to become a well-rounded developer.<br><br>👯 I’d love to collaborate on creative projects, especially those inspired by anime or pop culture. Combining my love for storytelling and coding is a dream!<br><br>🤝 I’m looking for help mastering Java and backend development concepts. If you’re experienced with Spring Framework or databases like MongoDB, I’d be grateful for any guidance.<br><br>🌱 I’m currently learning state management techniques in React, diving deeper into CSS animations, and taking my first steps into advanced backend systems.<br><br>💬 Ask me about anime recommendations, building pixel-perfect UIs, or how to add an otaku twist to a web project. I’m always up for a fun chat!<br><br>⚡ Fun fact: I’m a proud otaku who spends as much time watching anime as I do debugging code—and yes, I’ve tried to learn Japanese from subtitles more than once!<br><br>
+
 
 <div style="display: flex; align-items: center;">
     <img src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif" width="200" />
-    <img src="https://spotify-now-playing-badge.vercel.app/api/spotify?user=31bxkymgqckmbj7nwkodbuwezeku" width="200" />
+    
 </div>
 
 ## 🌐 Socials:
